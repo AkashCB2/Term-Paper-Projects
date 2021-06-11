@@ -1,4 +1,4 @@
-%This code was written by Akash Chandra Behera (19MS126) for ES2201
+%This code was written by Akash Chandra Behera for ES2202
 %Termpaper Spring 2021
 %Following code is for heat-map
 x=linspace(0.01,7,701); %This defines a line space with 701 ticks from 0.01 to 7, so spacing is between each tick is 1 unit
